@@ -236,11 +236,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668749136,
-        "narHash": "sha256-ZMiDRu3S2eoX55eQxn4O09gzreD2NqgkqV8vvAHESIs=",
+        "lastModified": 1668754899,
+        "narHash": "sha256-ssrwGIp/Htcd8fAR+jNh98+vqyAA7DWVTiDZmOFf1x8=",
         "owner": "nim-nix-pkgs",
         "repo": "vectors",
-        "rev": "b72228eba536cea9f1941186de4d5030ecfa6d80",
+        "rev": "5f0266043e122e0474cd303fbdbbd26f01a1f8fd",
         "type": "github"
       },
       "original": {
